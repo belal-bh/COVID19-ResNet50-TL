@@ -72,19 +72,19 @@ Tere is a separate colaboratory notbook, [covid19v2-ResNet50-Evaluation(availabl
 
 ## Important Consideration
 
-These colaboratory notebooks have some dependency and special environment requiremnets. So, be carefull if you want to run these notebooks, it may not work properly. I used google drive to store some files and secret information like kaggle API credential. If you understand the code you can set these environment properly with right credentials and run on google colaboratory GPU runtime. Also you can ping me if you need more information.
+These colaboratory notebooks have some dependencies and special environmental requirements. So, be careful if you want to run these notebooks; they may not work properly. I used Google Drive to store some files and secret information like Kaggle API credentials. If you understand the code, you can set this environment properly with the right credentials and run it on the Google Colaboratory GPU runtime. You can also ping me (belal.cseai@gmail.com) if you need more information.
 
 Extra dependencies:
 
 - Google acount
 - Google Drive account access
 - Kaggle API credentials for dounloading Dataset
-- Manually configure Google Drive paths that required in the program
+- Manually configure Google Drive paths that are required in the program
 - Google colaboratory GPU runtime environment
 
 ## Welcome
 
-If this reserch experiments help in any of your research please cite this paper.
+If this research experiment helps in any of your research, please cite this paper.
 
 Thank you.
 
