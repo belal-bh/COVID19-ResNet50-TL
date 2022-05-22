@@ -9,7 +9,7 @@ Stay tuned! Thanks
 
 We conduct our research experiment on the [Google Colaboratory](https://colab.research.google.com/) runtime environment. We utilize the free GPU runtime of google colaboratory. Because of the daily free GPU limit, we conduct our experiments in different colaboratory notebooks. We create ten different notebooks for ten different Transfer Learning (TL) models. Most of the code same except for the checkpoint sections of the corresponding TL model.
 
-Please find the details about our **research colaboratory notebooks** in the `colab_notebooks` directory of this repository or click [here (colab_notebooks)](./colab_notebooks/README.md).
+Please find the details about our **research colaboratory notebooks** in the `colab_notebooks` directory of this repository or click [here (colab_notebooks)](./colab_notebooks/).
 
 ## Welcome
 
